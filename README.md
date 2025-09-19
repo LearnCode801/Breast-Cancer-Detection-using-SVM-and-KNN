@@ -2,7 +2,7 @@
 
 ---
 
-Hello and welcome to TDS. My name is Mr. Bright and I’ll be your instructor for this project. In this project, we’ll build a practical machine-learning solution for breast cancer detection, training and comparing classifiers such as K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) — and I’ll explain why these algorithms are suitable for this problem.
+In this project, we’ll build a practical machine-learning solution for breast cancer detection, training and comparing classifiers such as K-Nearest Neighbors (KNN) and Support Vector Machine (SVM) — and I’ll explain why these algorithms are suitable for this problem.
 
 We’ll use the Breast Cancer dataset from the UCI Machine Learning Repository (also available on Kaggle), which contains 699 instances and 11 attributes. I will walk you through each line of code so you understand what it does and why it’s necessary.
 
