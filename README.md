@@ -8,7 +8,7 @@ We’ll use the Breast Cancer dataset from the UCI Machine Learning Repository (
 
 We’ll start by importing the required libraries and loading the dataset. Then we will perform preprocessing and exploratory data analysis with histograms, boxplots, pairplots, and a correlation heatmap to get familiar with the features and their relationships.
 
-After preparing the data, we’ll train the KNN and SVM models to predict whether a cell is benign (label 2) or malignant (label 4). In an example run, KNN achieved about 97% accuracy and SVM about 98%.
+After preparing the data, we’ll train the KNN and SVM models to predict whether a cell is benign or malignant. In an example run, KNN achieved about 97% accuracy and SVM about 98%.
 
 Finally, we’ll compare model performance using accuracy, classification reports, and confusion matrices to see how many benign and malignant samples were correctly and incorrectly classified.
 
